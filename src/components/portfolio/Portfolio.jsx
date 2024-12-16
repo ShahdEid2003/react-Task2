@@ -3,7 +3,7 @@ import PortfolioCard from './PortfiolioICard'
 
 export default function Portfolio() {
   const portfolioItems = [
-    { id: 1, image: "./cabin.png"},
+    { id: 1, image: './cabin.png'},
     { id: 2, image: './cake.png'},
     { id: 3, image: './circus.png'},
     { id: 4, image: './game.png'},
