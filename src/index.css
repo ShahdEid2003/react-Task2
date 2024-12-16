@@ -1,0 +1,62 @@
+.navbar{
+  background-color: rgb( 44, 62, 80);
+  padding: 30px;
+}
+.navbar .navbar-brand a{
+  font-size: 25px;
+}
+.navbar a{
+  color: white;
+  font-weight: bold;
+  font-size: 20px;
+}
+.logo{
+  width: 30%;
+
+}
+.portfolio-card img{
+  width:100%;
+
+}
+.main-veiw , .about{
+  background-color: rgb( 26, 188, 156);
+  padding:40px;
+  font-size:25px;
+  color: white;
+}
+.portfolio,.contact{
+  background-color: #feffffa8;
+  padding:40px;
+  color:rgb( 44, 62, 80);;
+
+}
+.download{
+  background-color: transparent;
+  color: white;
+  border: white solid 1px;
+
+}
+.send{
+  background-color: rgb( 26, 188, 156);
+  color: white;
+}
+
+.about{
+  font-size:medium;
+}
+.input-item input ,  textarea{
+  width: 100%;
+  height:50px;
+
+}
+.footer{
+  background-color: rgb( 44, 62, 80);
+  padding: 30px;
+  color: white;
+
+}
+.footer .btn{
+  border-radius: 50%;
+  padding:10px;
+  border:white 1px solid;
+}
