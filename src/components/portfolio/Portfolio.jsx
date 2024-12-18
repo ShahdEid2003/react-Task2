@@ -13,7 +13,7 @@ export default function Portfolio() {
   ];
   return (
     <>
-    <section className='portfolio'>
+    <section className='portfolio' id="page1">
     <div className="container text-center">
       <h2 className="fw-bold mb-4">PORTFOLIO</h2>
       <CustomDivder backgroundColor="rgb( 44, 62, 80)"/>

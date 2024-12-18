@@ -5,7 +5,7 @@ import CustomDivder from '../shared/CustomDivder.jsx'
 export default function about() {
   return (
     <>
-    <section className=" about">
+    <section className=" about" id="page2">
       <div className="container ">
         <div className="text-center">
           <h2 >About</h2>

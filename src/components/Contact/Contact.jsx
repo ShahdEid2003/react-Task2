@@ -6,8 +6,8 @@ import CustomDivder from '../shared/CustomDivder.jsx'
 export default function Contact() {
   return (
     <>
-    <section className="contact">
-        <div className="container text-center ">
+    <section className="contact" id="page3">
+        <div className="container text-center">
             <h2>Contact</h2>
             <CustomDivder backgroundColor="rgb( 44, 62, 80)"/>
             <div class="row">
