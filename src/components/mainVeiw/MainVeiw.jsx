@@ -1,5 +1,5 @@
 import React from 'react'
-// import logo from './assets/img/logo.jpg'
+import CustomDivder from '../shared/CustomDivder.jsx'
 
 export default function MainVeiw() {
   return (
@@ -10,6 +10,7 @@ export default function MainVeiw() {
             <div className="col-lg-12 text-center">
                 <img src='./logo.svg' className="logo"/> 
                 <h1>Start Bootstrap</h1> 
+                <CustomDivder backgroundColor="white"/>
                 <p className='fw-bold'>Graphic Artist - Web Designer - Illustrator</p>
             </div>  
         </div>

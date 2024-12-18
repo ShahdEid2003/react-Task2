@@ -1,5 +1,6 @@
 import React from 'react'
 import PortfolioCard from './PortfiolioICard'
+import CustomDivder from './../shared/CustomDivder.jsx'
 
 export default function Portfolio() {
   const portfolioItems = [
@@ -15,6 +16,7 @@ export default function Portfolio() {
     <section className='portfolio'>
     <div className="container text-center">
       <h2 className="fw-bold mb-4">PORTFOLIO</h2>
+      <CustomDivder backgroundColor="rgb( 44, 62, 80)"/>
       
       <div className="row">
         {

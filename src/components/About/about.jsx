@@ -1,5 +1,6 @@
 import React from 'react'
 import CustomButton from '../shared/CustomButton.jsx'
+import CustomDivder from '../shared/CustomDivder.jsx'
 
 export default function about() {
   return (
@@ -9,6 +10,8 @@ export default function about() {
         <div className="text-center">
           <h2 >About</h2>
         </div>
+        <CustomDivder backgroundColor="white"/>
+
         
         <div className="row d-flex align-items-center justify-content-center ">
             <div className="col-lg-4 ">
